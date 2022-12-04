@@ -1,0 +1,46 @@
+* {
+    background-color:#E7F7D4;    ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.catch{
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    color: #7FBD32;
+}
+
+
+.instruct {
+    color: #EA202C;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin-left: 12px;
+    margin-right: 12px;
+   
+    text-align: center;
+}
+
+a:link {
+    color: #B8141F;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+
+
+a:hover {
+    color: rgb(192, 71, 71);
+}
